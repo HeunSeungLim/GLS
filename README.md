@@ -5,8 +5,8 @@
 Heunseung Lim, Joongchol Shin, Jinsol Choi, and Joonki Paik. 
 2024 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
 
-<img src='imgs/img.jpg' width=790>  
-
+<img src='imgs/lim1.png' width=790>  
+<img src='imgs/curve.PNG' width=790>  
 ## Requirements
 + Python 3.8
 + PyTorch 1.9.1
